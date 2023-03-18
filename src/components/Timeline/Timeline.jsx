@@ -5,7 +5,7 @@ import "react-vertical-timeline-component/style.min.css";
 const Timeline = () => {
   return (
     <section id='Timeline'>
-    <h5>My Timeline</h5>
+    <h2>My Timeline</h2>
     <VerticalTimeline>
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
