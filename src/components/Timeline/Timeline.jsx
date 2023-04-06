@@ -13,7 +13,7 @@ const Timeline = () => {
         contentArrowStyle={{ borderRight: "7px solid #5CDB95" }}
         date="2021 - present"
         iconStyle={{ background: "#1f1f38", color: "#fff" }}
-        icon={<i className="fas fa-code"></i>}
+        icon={<i className="yofas fa-code"></i>}
       >
         <h3 className="vertical-timeline-element-title">Bachelor's Degree in Information Science and Engineering</h3>
         <h4 className="vertical-timeline-element-subtitle">JSS Science and Technology University</h4>
